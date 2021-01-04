@@ -1,6 +1,9 @@
-# 02456-Deep-Learning
-Exam project for the course 02456 Deep Learning 2020
+_Exam project for the course 02456 Deep Learning 2020_
 
+# How to run
+The data and results of the report is reproducable through the provided notebook (A_look_into_robustness.ipynb). It contains sections for both training and evalutating pre-trained models (obtained from the nets folder).
+
+It requires the AlignMNIST dataset to be downloaded and put into local runtime. It can be downloaded from the below links
 
 
 ## AlignMNIST dataset
